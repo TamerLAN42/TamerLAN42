@@ -29,6 +29,8 @@
 
 ## Контакты
 [![Static Badge](https://img.shields.io/badge/Telegram-@TamerLAN427-blue)](https://t.me/TamerLAN427)
+[![Static Badge](https://img.shields.io/badge/Email-tamerlan42@inbox.ru-orange)](mailto:tamerlan42@inbox.ru)
 
-> "Создаю ML-решения, которые работают"  
-> ⚡ Интересный факт: Пишу код с 8 лет, в ML пришел через любовь к автоматизации
+> "Создаю ML-решения, которые работают"
+
+⚡ Интересный факт: Пишу код с 8 лет, в ML пришел через любовь к автоматизации
