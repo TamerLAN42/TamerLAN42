@@ -1,6 +1,6 @@
 ### Привет! Я Максим Ковалевский - aka TamerLAN 👋 
 
-**ML Engineer | Data Scientist | Python Developer**
+**ML Engineer | Data Scientist | DevOps Engineer | Python Developer**
 
 ## 💼 Профессиональный профиль
 3.5+ года в `ML/AI` · `NLP` · `Computer Vision` · `Tabular Data`  
