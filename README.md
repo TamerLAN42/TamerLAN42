@@ -1,25 +1,28 @@
 ### Привет! Я Максим Ковалевский - aka TamerLAN 👋 
 
-**ML Engineer | Data Scientist | DevOps Engineer | Python Developer**
+**DevOps Engineer | MLOps Engineer | Python Developer**
 
 ## 💼 Профессиональный профиль
-3.5+ года в `ML/AI` · `NLP` · `Computer Vision` · `Tabular Data`  
-**Специализация**:  
-- End-to-end ML решения (от исследований до продакшена)  
-- Оптимизация и автоматизация процессов  
-- UI/UX для ML-решений
+3.5+ года в `DevOps` · `ML/AI` · `Software Development`  
 
-```python
+**Специализация**:  
+- Контейнеризация приложений и инфраструктуры
+- Мониторинг и визуализация метрик
+- Автоматизация всего на свете
+
+```json
 {
   "expertise": {
-    "Core": ["Machine Learning", "Deep Learning", "Data Engineering"],
-    "Production": ["Model Deployment", "API Development", "Cloud Optimization"],
-    "Languages": ["Python", "SQL", "JavaScript", "Java"]
+    "Core DevOps": ["Containerization (Docker)", "Linux Server Administration", "Gitlab CI/CD Pipelines"],
+    "Monitoring & Observability": ["Prometheus", "Grafana", "cAdvisor", "Node Exporter", "Alerting"],
+    "MLOps": ["Model Deployment", "API Development", "Performance Optimization"],
+    "Languages & Protocols": ["Python", "Bash", "SQL", "YAML", "REST/API"]
   },
   "stack": {
-    "ML/DL": ["PyTorch", "TensorFlow/Keras", "scikit-learn", "HuggingFace"],
-    "Data": ["Pandas/Numpy", "PostgreSQL", "Spark"],
-    "DevOps": ["Docker", "Linux", "Flask/FastAPI"]
+    "DevOps Tools": ["Docker", "Docker Compose", "Linux Ubuntu", "Git", "Nginx"],
+    "Monitoring Stack": ["Prometheus", "Grafana", "cAdvisor", "Node Exporter"],
+    "Orchestration & Cloud": ["Kubernetes (Learning)", "Terraform (Learning)"],
+    "Development": ["FastAPI", "PostgreSQL", "Pandas", "Python"]
   }
 }
 ```
@@ -31,6 +34,6 @@
 [![Static Badge](https://img.shields.io/badge/Telegram-@TamerLAN427-blue)](https://t.me/TamerLAN427)
 [![Static Badge](https://img.shields.io/badge/📧Email-tamerlan42@inbox.ru-orange)](mailto:tamerlan42@inbox.ru)  
 📧 **Email**: `tamerlan42@inbox.ru` *(для копирования)*  
-> "Создаю ML-решения, которые работают"
+> "Создаю решения, которые работают"
 
-⚡ Интересный факт: Пишу код с 8 лет, в ML пришел через любовь к автоматизации
+⚡ Интересный факт: Первый алгоритм я написал в 8 лет на черепашке в Майнкрафте
