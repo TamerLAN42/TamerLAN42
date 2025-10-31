@@ -1,9 +1,10 @@
 ### Привет! Я Максим Ковалевский - aka TamerLAN 👋 
 
-**DevOps Engineer | MLOps Engineer | Python Developer**
+**DevOps-инженер** | **Системный администратор** | **Backend-разработчик**  
+ ~~Миллиардер~~ | ~~Филантроп~~ | **И просто тот, кого зовут, когда всё сломалось**
 
 ## 💼 Профессиональный профиль
-3.5+ года в `DevOps` · `ML/AI` · `Software Development`  
+3.5+ года в `DevOps` · `Software Development`  
 
 **Специализация**:  
 - Контейнеризация приложений и инфраструктуры
@@ -13,16 +14,33 @@
 ```json
 {
   "expertise": {
-    "Core DevOps": ["Containerization (Docker)", "Linux Server Administration", "Gitlab CI/CD Pipelines"],
-    "Monitoring & Observability": ["Prometheus", "Grafana", "cAdvisor", "Node Exporter", "Alerting"],
-    "MLOps": ["Model Deployment", "API Development", "Performance Optimization"],
-    "Languages & Protocols": ["Python", "Bash", "SQL", "YAML", "REST/API"]
-  },
-  "stack": {
-    "DevOps Tools": ["Docker", "Docker Compose", "Linux Ubuntu", "Git", "Nginx"],
-    "Monitoring Stack": ["Prometheus", "Grafana", "cAdvisor", "Node Exporter"],
-    "Orchestration & Cloud": ["Kubernetes (Learning)", "Terraform (Learning)"],
-    "Development": ["FastAPI", "PostgreSQL", "Pandas", "Python"]
+    "Infrastructure & Cloud": [
+      "Docker & Docker Compose", 
+      "Kubernetes (Learning)",
+      "Terraform (Learning)",
+      "Linux Server Administration (Ubuntu)",
+      "Nginx"
+    ],
+    "CI/CD & Automation": [
+      "GitLab CI/CD", 
+      "Git", 
+      "Bash Scripting",
+      "Python Automation"
+    ],
+    "Monitoring & Observability": [
+      "Prometheus", 
+      "Grafana", 
+      "cAdvisor", 
+      "Node Exporter",
+      "Alerting Configuration"
+    ],
+    "Development & Data": [
+      "Python", 
+      "FastAPI", 
+      "PostgreSQL", 
+      "Pandas",
+      "REST API Development"
+    ]
   }
 }
 ```
